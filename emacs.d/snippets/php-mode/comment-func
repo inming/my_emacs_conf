@@ -1,0 +1,13 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: comment-func
+# key: comment-func
+# binding: direct-keybinding
+# --
+/**
+ * 函数说明
+ * @param array $var_name 参数说明
+ * @param string $var_name 参数说明
+ * @param integer $var_name 参数说明
+ *
+ * @return array $var_name 返回值说明
+ */
